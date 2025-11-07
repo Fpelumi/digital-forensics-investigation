@@ -62,11 +62,11 @@ Comprehensive forensic analysis project combining disk and memory forensics on a
 *Note: Screenshots contain sanitized/redacted data to protect privacy*
 
 ### Autopsy Analysis
-![Autopsy Interface](screenshots/autopsy-analysis.png)
+![Autopsy Interface](/autopsy-analysis.png)
 *File system analysis showing recovered deleted files*
 
 ### Volatility Memory Analysis
-![Volatility Output](screenshots/volatility-analysis.png)
+![Volatility Output](/volatility-analysis.png)
 *Memory dump analysis revealing encryption keys*
 
 ## 📝 Learning Outcomes
