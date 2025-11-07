@@ -66,7 +66,7 @@ Comprehensive forensic analysis project combining disk and memory forensics on a
 *File system analysis showing recovered deleted files*
 
 ### Volatility Memory Analysis
-![Volatility Output](/volatility.png)
+![Volatility Output](/Volatility.png)
 *Memory dump analysis revealing encryption keys*
 
 ## 📝 Learning Outcomes
