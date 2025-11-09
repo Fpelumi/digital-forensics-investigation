@@ -87,3 +87,4 @@ This project is for educational and portfolio purposes.
 **Author:** Oluwapelumi Fatoba  
 **Contact:** pelumifatoba32@gmail.com  
 **LinkedIn:** [linkedin.com/in/fatoba](https://linkedin.com/in/fatoba)
+**Portfolio:** [fatoba.netlify](https://fatoba.netlify.app/)
